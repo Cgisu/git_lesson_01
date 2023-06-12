@@ -1,6 +1,6 @@
-def my_square(number):
+def my_square(z):
 	"""Take a value and return the squared value.
-	   This code uses '**' operator."""
-	return number ** 2
+	   This code uses '*' operator."""
+	return z ** z
 
-print(my_square(4))
+print(my_square(24))
