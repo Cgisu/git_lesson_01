@@ -1,3 +1,3 @@
-Collaboration
+COLLABORATION
 
 files and folder used for collaboration.
